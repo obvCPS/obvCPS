@@ -1,4 +1,4 @@
-Alexander
-13 y/o
-Swiss student
-Programming languages: Python, HTML5, CSS, JavaScript
+Alexander <br>
+13 y/o <br>
+Swiss student <br> 
+Programming languages: Python, HTML5, CSS, JavaScript<br>
